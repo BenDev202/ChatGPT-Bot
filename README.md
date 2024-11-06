@@ -1,4 +1,4 @@
-# Day #31
+# ChatGPT Bot AI
 
 ### ChatGPT Bot
 this project is how to use chatgpt api to code a chatgpt bot with javascript. we create a project that you can ask anything from chatgpt with javascript❗️
