@@ -30,7 +30,7 @@ function sendMessage() {
     const options = {
         method: 'POST',
         headers: {
-            'x-rapidapi-key': 'f743000fa9mshf6df40025dc60e6p1424e9jsnb03e762deefd',
+            'x-rapidapi-key': '{YOUR RAPIDAPI-KEY}',
             'x-rapidapi-host': 'chatgpt-chatgpt3-5.p.rapidapi.com',
             'Content-Type': 'application/json'
         },
